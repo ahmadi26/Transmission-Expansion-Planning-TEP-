@@ -1,12 +1,19 @@
 # Transmission-Expansion-Planning-TEP-
 Optimal probabilistic planning of the transmission network development with the consideration of wind resource uncertainty
+****************************************************************************************
+
 1 Sajjad Ahmadi, 2 Donya Ashtiani Haghighi, 3 Yazdan Ashgevari, 4 Adel Akbarimajd
+****************************************************************************************
 
 1Department of electrical engineering, Ardabil Science and Research Branch, Islamic Azad University, Ardabil, Iran
 2Department of electrical engineering, University of Tabriz, Tabriz, Iran
 3Department of electrical engineering, Ardabil branch, Islamic Azad University, Ardabil, Iran
 4Department of electrical engineering, University of Mohaghegh Ardabili, Ardabil, Iran 
+****************************************************************************************
+
 Attention: The codes are the primary one
+****************************************************************************************
+
 Abstract:
 Increasing demand for electricity in recent years has created new transmission lines for the transfer 
 of electrical power from sources of production to the consumer. Therefore, the expansion of power transmission 
